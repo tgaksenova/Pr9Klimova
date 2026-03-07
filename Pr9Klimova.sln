@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr9Klimova", "Pr9Klimova\Pr9Klimova.csproj", "{AB547177-C2A5-48DB-A705-D598CDEB7D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth_Testing_Positive", "Auth_Testing_Positive\Auth_Testing_Positive.csproj", "{99365038-7722-43B1-9FC7-261B48E25B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB547177-C2A5-48DB-A705-D598CDEB7D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB547177-C2A5-48DB-A705-D598CDEB7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB547177-C2A5-48DB-A705-D598CDEB7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB547177-C2A5-48DB-A705-D598CDEB7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99365038-7722-43B1-9FC7-261B48E25B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99365038-7722-43B1-9FC7-261B48E25B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99365038-7722-43B1-9FC7-261B48E25B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99365038-7722-43B1-9FC7-261B48E25B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3F1268-B790-487D-8B5C-0F084AD7CDFD}
+	EndGlobalSection
+EndGlobal
