@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr9Klimova", "Pr9Klimova\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth_Testing_Positive", "Auth_Testing_Positive\Auth_Testing_Positive.csproj", "{99365038-7722-43B1-9FC7-261B48E25B7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR6_Auth_positive_users", "PR6_Auth_positive_users\PR6_Auth_positive_users.csproj", "{A4CC700D-E6D6-4AFE-9CCB-B7B16C881CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{99365038-7722-43B1-9FC7-261B48E25B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99365038-7722-43B1-9FC7-261B48E25B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99365038-7722-43B1-9FC7-261B48E25B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CC700D-E6D6-4AFE-9CCB-B7B16C881CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CC700D-E6D6-4AFE-9CCB-B7B16C881CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CC700D-E6D6-4AFE-9CCB-B7B16C881CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CC700D-E6D6-4AFE-9CCB-B7B16C881CEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

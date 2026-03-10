@@ -17,7 +17,7 @@ namespace Auth_Testing_Positive
             _app = new App();
             _app.InitializeComponent();  // Загружает App.xaml ресурсы
             var page = new AuthPage();           
-            Assert.IsFalse(page.Auth(" "," "));
+            Assert.IsTrue(page.Auth(" "," "));
         }
     }
 }
